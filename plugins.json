@@ -1,3 +1,7 @@
 [
+<<<<<<< Updated upstream
   {"internalName":"godlikehttp","hash":"0458621b9a194441e6c47a9e02c4c126281996b823ecfca7f0ba4d17cf80052a","size":1123302,"plugins":["com.godlikehttp.GodlikeHttpPlugin"],"displayName":"GodlikeHttp","description":"","provider":"wrekklol"}
+=======
+  {"internalName":"godlikehttp","hash":"83e8c4bba6a242aab24eea1a774f6640edf96bb243560f40e3df45ed62232e2b","size":1132180,"plugins":["com.godlikehttp.GodlikeHttpPlugin"],"displayName":"GodlikeHttp","description":"","provider":"wrekklol"}
+>>>>>>> Stashed changes
 ]
