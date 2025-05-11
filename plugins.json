@@ -1,5 +1,5 @@
 [
   {"internalName":"godlikehttp","hash":"bb68e86647a7a54a95301e00eef5d72df091b9e86e0a1218ff78aabab19b57d7","size":1164689,"plugins":["com.godlikehttp.GodlikeHttpPlugin"],"displayName":"GodlikeHttp","description":"","provider":"wrekklol"},
-  {"internalName":"godlike","hash":"58ff6d2009512628e29a8ed77858515af63fbade986245bfe99cc3a678115729","size":4809695,"plugins":["com.godlike.GodlikePlugin"],"displayName":"Godlike","description":"","provider":"wrekklol"},
+  {"internalName":"godlike","hash":"85fe1c9d62b89018a8def8785ce36e97dc0eb9f79524e918aab8f2b49ba925a4","size":4810008,"plugins":["com.godlike.GodlikePlugin"],"displayName":"Godlike","description":"","provider":"wrekklol"},
   {"internalName":"godlikedevtools","hash":"bd10b5afeaef5de130a2b42aff8c86b2b583095e3263e0403b4775b543b88dcb","size":5922856,"plugins":["com.godlikedevtools.GodlikeDevToolsPlugin"],"displayName":"GodlikeDevTools","description":"","provider":"wrekklol"}
 ]
